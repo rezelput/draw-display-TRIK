@@ -6,7 +6,7 @@ import math
 class Program():
   __interpretation_started_timestamp__ = time.time() * 1000
 
-  pi = 3.141592653589793
+  pi = 3.141592653589793 //TRIK variable
   x = None
 
   def execMain(self):
